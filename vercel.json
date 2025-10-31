@@ -3,7 +3,8 @@
   "functions": {
     "api/**/*": {
       "runtime": "nodejs18.x",
-      "regions": ["hkg1", "sin1"]   // 优先在亚洲，降低往返时延
+      "regions": ["hkg1", "sin1"]
     }
   }
 }
+
